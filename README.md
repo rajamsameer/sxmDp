@@ -1,5 +1,5 @@
 # 💫 About Me:
-:<br><br>🔭 I’m currently working on data engineering concepts, real-time data pipelines, and automation projects.<br><br>👯 I’m looking to collaborate on open-source projects, backend systems, and data-driven applications.<br><br>🤝 I’m looking for help with optimizing data workflows and exploring cloud data platforms.<br><br>🌱 I’m currently learning distributed systems, big data tools, and dashboard development.<br><br>💬 Ask me about Python, SQL, ETL pipelines, and anything related to data engineering.<br><br>⚡ Fun fact: I enjoy simplifying complex problems with clean and efficient code!<br><br>
+🔭 I’m currently working on data engineering concepts, real-time data pipelines, and automation projects.<br><br>👯 I’m looking to collaborate on open-source projects, backend systems, and data-driven applications.<br><br>🤝 I’m looking for help with optimizing data workflows and exploring cloud data platforms.<br><br>🌱 I’m currently learning distributed systems, big data tools, and dashboard development.<br><br>💬 Ask me about Python, SQL, ETL pipelines, and anything related to data engineering.<br><br>⚡ Fun fact: I enjoy simplifying complex problems with clean and efficient code!<br><br>
 
 
 ## 🌐 Socials:
@@ -12,11 +12,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=rajamsameer&theme=aura&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rajamsameer&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rajamsameer&theme=panda&no-frame=true&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=rajamsameer&limit=5&theme=dark&combine_all_yearly_contributions=true)
