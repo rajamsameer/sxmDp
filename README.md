@@ -1,4 +1,4 @@
-# 💫 About Me:
+## 💫 About Me:
 Hey there! I’m a passionate aspiring Data Engineer who loves building efficient, real-time data pipelines and turning raw data into valuable insights.<br>🚀 Currently working on:<br>Real-Time Data Sync: Trigger-Based CDC from SQLite to Snowflake — with Python ETL, Streamlit dashboards, and Snowflake as the analytics powerhouse.
 
 
